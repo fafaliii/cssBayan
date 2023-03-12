@@ -42,7 +42,7 @@ export default function Experience()
                         position={ [ 0, 1.56, -1.4 ] }
                         rotation-x={ - 0.256}
                     >
-                        <iframe src="https://kesarfd.github.io/cssBayan/cssBayan/index.html" />
+                        <iframe src="https://fafaliii.github.io/Classic-Bayan/" />
                     </Html>
                 </primitive>
             </Float>
